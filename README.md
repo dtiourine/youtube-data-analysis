@@ -1,4 +1,4 @@
-# youtube-data-analytics
+# YouTube Analysis Project
 
 packages used:
 - dotenv
