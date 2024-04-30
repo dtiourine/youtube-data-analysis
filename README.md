@@ -6,6 +6,7 @@ packages used:
 - pandas
 - python-dateutil
 - wordcloud
+- nltk
 
 (have directions for how to get your own api key)
 
