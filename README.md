@@ -5,6 +5,7 @@ packages used:
 - google-api-python-client
 - pandas
 - python-dateutil
+- wordcloud
 
 (have directions for how to get your own api key)
 
