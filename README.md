@@ -4,6 +4,7 @@ packages used:
 - dotenv
 - google-api-python-client
 - pandas
+- python-dateutil
 
 (have directions for how to get your own api key)
 
