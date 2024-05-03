@@ -33,6 +33,6 @@ You will need a valid YouTube API key to fetch data:
 **Note:** Store your API key in a `.env` file as `YOUTUBE_API_KEY='your_api_key_here'` to keep it secure and separate from your main code.
 
 ## Credits
-- Inspired by [YouTube API Analysis by Thu Vu](https://github.com/original/repo)
+- Inspired by [YouTube API Analysis by Thu Vu][(https://github.com/original/repo](https://github.com/thu-vu92/youtube-api-analysis)
 - Watch the [Original Project Walkthrough on YouTube](https://youtu.be/D56_Cx36oGY)
 - [YouTube Data API Documentation](https://developers.google.com/youtube/v3)
