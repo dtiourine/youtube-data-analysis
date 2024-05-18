@@ -20,7 +20,9 @@ Before you can run the analysis, you'll need to have Python installed on your ma
 ### Installation
 To install the necessary packages, run the following command in your terminal:
 
-```bash pip install python-dotenv google-api-python-client pandas python-dateutil wordcloud nltk isodate seaborn```
+```bash 
+pip install python-dotenv google-api-python-client pandas python-dateutil wordcloud nltk isodate seaborn
+```
 
 ### API Key
 You will need a valid YouTube API key to fetch data:
